@@ -1,0 +1,21 @@
+PODS:
+  - SyntaxKit (1.0)
+
+DEPENDENCIES:
+  - SyntaxKit (from `git@github.com:alehed/SyntaxKit.git`)
+
+EXTERNAL SOURCES:
+  SyntaxKit:
+    :git: git@github.com:alehed/SyntaxKit.git
+
+CHECKOUT OPTIONS:
+  SyntaxKit:
+    :commit: 929049ce235c937f44b69dfe108c17599de421b4
+    :git: git@github.com:alehed/SyntaxKit.git
+
+SPEC CHECKSUMS:
+  SyntaxKit: 35312dbe32fd7c9809e9a1908ad8d2e30fb309b1
+
+PODFILE CHECKSUM: a2932959e8c55e8cac2e19859ccdd1082adb6029
+
+COCOAPODS: 1.2.1.beta.1
